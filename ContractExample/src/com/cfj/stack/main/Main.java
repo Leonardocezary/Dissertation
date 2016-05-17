@@ -19,7 +19,6 @@ public class Main {
 		 */
 
 		long endTime = System.nanoTime();
-
 		double x = (double) (endTime - startTime) / 1000000000.0;
 
 		System.out.println("\nTotal execution time is: " + x + " seconds.");

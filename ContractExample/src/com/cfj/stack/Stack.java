@@ -77,6 +77,7 @@ public class Stack<E> {
 	 * Copies the current array containing the current elements 
 	 * into a new array with +1 the previous size.
 	 */
+	@SuppressWarnings("unused")
 	private void ensureCapacity() {
 		int newSize = elements.length + 1;
 		elements = Arrays.copyOf(elements, newSize);

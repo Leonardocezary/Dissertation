@@ -2,6 +2,11 @@ package com.cfj.stack.main;
 
 import com.cfj.stack.Stack;
 
+/**
+ * 
+ * @author Leonardocezary_Ioan
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {

@@ -1,0 +1,5 @@
+Follow tutorial: http://www.sfs.uni-tuebingen.de/~roland/downloads/Informatik3/cofoja-Eclipse.pdf
+add cofoja.contracts.asm-1.3-20160207.jar
+
+at the running class add 
+-javaagent:lib/cofoja.contracts.asm-1.3-20160207.jar

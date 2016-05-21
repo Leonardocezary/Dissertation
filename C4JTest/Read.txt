@@ -1,0 +1,3 @@
+add c4j jar, javaassist and log4j
+create a copy of your JRE
+add it to eclipse with parameters: -ea -javaagent:pathToYourJar

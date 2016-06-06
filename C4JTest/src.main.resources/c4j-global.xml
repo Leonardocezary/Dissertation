@@ -6,11 +6,11 @@
             <log>false</log>
             <throw-error>true</throw-error>
         </default>
-        <package name="timeofday">
+        <package name="stack">
             <log>false</log>
             <throw-error>true</throw-error>
         </package>
-        <class name="timeofday.TimeOfDay">
+        <class name="com.c4j.stack">
             <log>false</log>
             <throw-error>true</throw-error>
         </class>
